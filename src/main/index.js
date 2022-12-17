@@ -31,7 +31,7 @@ function createWindow() {
   });
 
   win.maximize();
-  win.loadURL("https://game.aq.com/game/");
+  win.loadURL("http://13.214.186.196/");
 }
 
 app.whenReady().then(() => {
